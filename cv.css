@@ -1,0 +1,346 @@
+/* Styling for the main name  */
+.name {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 100px;
+    margin: 530px;
+    width: 400px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+/* Educational Institute name styling */
+
+.insName {
+    margin-top: 0px;
+    margin-left: 450px;
+    width: 500px;
+    font-size: 20px;
+    margin-bottom: 0px;
+
+}
+
+.uniNmae {
+    margin-top: 0px;
+    margin-left: 460px;
+    width: 500px;
+    font-size: 20px;
+    margin-bottom: 15px;
+
+}
+
+/* Contact information styling */
+
+.contact {
+    margin-top: 0px;
+    margin-left: 460px;
+    width: 450px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+/*LikedIn Styling*/
+
+.LinkedIn-logo {
+    height: 20px;
+    width: 20px;
+    margin-left: 550px;
+    border-radius: 15px;
+    margin-top: 6px;
+
+}
+
+.LinkedIn-link {
+    cursor: pointer;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 8px;
+
+
+}
+
+.line {
+    margin-left: 5px;
+    color: black;
+}
+
+/*Github Styling*/
+
+.github-logo {
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+
+}
+
+.github-link {
+    cursor: pointer;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 6px;
+
+}
+
+/* Education Section Styleing */
+
+.education {
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 30px;
+    text-decoration-line: underline;
+    margin-bottom: 0px;
+
+}
+
+.education-des {
+    font-weight: bold;
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.department {
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left: 70px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 0px;
+}
+
+.cgpa {
+    font-weight: bold;
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-bottom: 0px;
+}
+
+.course-des {
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left: 65px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 0px;
+}
+
+/*Research Interest Section */
+.research {
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    text-decoration-line: underline;
+    margin-bottom: 0px;
+}
+
+.research-des {
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left: 65px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 0px;
+}
+
+/* Technical skills Section */
+
+.technical-skill {
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    text-decoration-line: underline;
+    margin-bottom: 0px;
+
+}
+
+.technical-skill-des {
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.technical-skill-ai-development {
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.technical-skill-language {
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
+
+.technical-skill-web {
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
+
+.technical-skill-other {
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
+
+/* Project Section */
+
+.project {
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 25px;
+    text-decoration-line: underline;
+    margin-bottom: 0px;
+}
+
+.project-snake-game {
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.project-snake-game-tool {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 500px;
+    font-size: 25px;
+    margin-bottom: 0px;
+
+}
+
+.project-snake-game-des {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 90%;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+
+.project-flappy-bird {
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.project-flappy-bird-tool {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 500px;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+
+.project-flappy-bird-des {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 90%;
+    font-size: 25px;
+    margin-bottom: 0px;
+
+}
+
+.project-blood-donation {
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.project-blood-donation-tool {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 500px;
+    font-size: 25px;
+    margin-bottom: 0px;
+
+}
+
+.project-blood-donation-des {
+    margin-top: 0px;
+    margin-left: 70px;
+    width: 90%;
+    font-size: 25px;
+    margin-bottom: 0px;
+
+}
+
+/* Reference Section */
+
+.reference {
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+    text-decoration-line: underline;
+    margin-bottom: 0px;
+}
+
+.rakib-sir-name {
+    font-weight: bold;
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.rakib-sir-lec {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.rakib-sir-ins {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.rakib-sir-uni {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.rakib-sir-phone {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.rakib-sir-email {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
